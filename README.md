@@ -8,15 +8,19 @@ Refer to ADT of pytorch models
 Handwritten Digit Recognition
 ### Data
 MNIST
-### Result
-![Confusion Matrix](https://raw.githubusercontent.com/Seulin/Deep-Learning-Models-without-Frameworks/main/DNN/figure/lrelu_cf.png)
-![Confusion Matrix](https://raw.githubusercontent.com/Seulin/Deep-Learning-Models-without-Frameworks/main/DNN/figure/relu_cf.png)
+### Result (Confusion Matrix)
+<img src="https://raw.githubusercontent.com/Seulin/Deep-Learning-Models-without-Frameworks/main/DNN/figure/lrelu_cf.png">
+<img src="https://raw.githubusercontent.com/Seulin/Deep-Learning-Models-without-Frameworks/main/DNN/figure/relu_cf.png">
 
 ## CNN
 ### Task
 Handwritten Digit Recognition
 ### Data
 MNIST
+### Result (Confusion Matrix)
+CNN2: Convolution layer &rarr; Convolution layer &rarr; Flatten layer &rarr; Linear layer <br>
+CNN3: Convolution layer &rarr; Convolution layer &rarr; Convolution layer &rarr; Relu &rarr; Maxpool &rarr; Flatten layer &rarr; Linear layer
+<img src="https://raw.githubusercontent.com/Seulin/Deep-Learning-Models-without-Frameworks/main/CNN/CNN_results.png">
 
 ## RNN / LSTM
 ### Task
@@ -29,8 +33,13 @@ Sentence Emotion Analysis
 4: 🍴 (Fork and Knife)
 ### Result
 #### RNN
-![RNN Accuracy Graph](https://raw.githubusercontent.com/Seulin/Deep-Learning-Models-without-Frameworks/main/RNN-LSTM/A%20accuracy%20graph.png)| width=50)
-![RNN Loss Graph](https://raw.githubusercontent.com/Seulin/Deep-Learning-Models-without-Frameworks/main/RNN-LSTM/A%20loss%20graph.png)
+<span>
+<img src="https://raw.githubusercontent.com/Seulin/Deep-Learning-Models-without-Frameworks/main/RNN-LSTM/A%20accuracy%20graph.png" width=45%>
+<img src="https://raw.githubusercontent.com/Seulin/Deep-Learning-Models-without-Frameworks/main/RNN-LSTM/A%20loss%20graph.png" width=45%>
+</span>
+  
 #### LSTM
-![LSTM Accuracy Graph](https://raw.githubusercontent.com/Seulin/Deep-Learning-Models-without-Frameworks/main/RNN-LSTM/E%20accuracy%20graph.png)
-![LSTM Loss Graph](https://raw.githubusercontent.com/Seulin/Deep-Learning-Models-without-Frameworks/main/RNN-LSTM/E%20loss%20graph.png)
+<span>
+<img src="https://raw.githubusercontent.com/Seulin/Deep-Learning-Models-without-Frameworks/main/RNN-LSTM/E%20accuracy%20graph.png" width=45%>
+<img src="https://raw.githubusercontent.com/Seulin/Deep-Learning-Models-without-Frameworks/main/RNN-LSTM/E%20loss%20graph.png" width=45%>
+</span>
