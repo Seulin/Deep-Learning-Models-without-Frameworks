@@ -1,5 +1,8 @@
 # Deep-Learning-Models-without-Frameworks
 
+Implementation of deep learning models without AI frameworks (tensorflow, pytorch, etc.)
+Refer to ADT of pytorch models
+
 ## DNN
 ### Task
 Handwritten Digit Recognition
