@@ -1,6 +1,6 @@
 # Deep-Learning-Models-without-Frameworks
 
-Implementation of deep learning models without AI frameworks (tensorflow, pytorch, etc.)
+Implementation of deep learning models without AI frameworks (tensorflow, pytorch, etc.)<br>
 Refer to ADT of pytorch models
 
 ## DNN
